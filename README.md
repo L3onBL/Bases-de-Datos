@@ -2,7 +2,7 @@
 In this repository you will find some databases related with electricity sector, business and real case studies.
 
 
-1. Description: databases of accidents of electrical origin in Colombia
+1. Description: databases accidents of electrical origin in Colombia
 
 This databse have the accidents of electrical origin in Colombia between the years 2010 to 2020. The database have twenty-five (25) columns and (3.075) rows. 
 The columns and its type in the database are: 
