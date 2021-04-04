@@ -1,4 +1,4 @@
-# Bases-de-Datos
+# DataBases
 In this repository you will find some databases related with electricity sector, business and real case studies.
 
 
