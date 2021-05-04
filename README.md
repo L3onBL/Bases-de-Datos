@@ -32,3 +32,12 @@ The columns and its type in the database are:
   * MEDIDAS (type: string) 
 
 Data with problems: the date column (Fecha) have differents formats of date (dd/mm/yyyy, mm/dd/yyyy)
+
+2. Description: product sales databases (any product) consider unit sales, cost, advertising cost and promotion cost. This databse . The database have five (5) columns and twenty four (24) rows. 
+The columns and its type in the database are: 
+
+  * Month (type: int)
+  * Unit Sales (type: int)
+  * Price (type: float)
+  * Cost_Mark (type: float)
+  * Cost_Prom (type: float)
